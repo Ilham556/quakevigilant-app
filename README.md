@@ -1,7 +1,5 @@
 # 🌍 QuakeVigilant: Sistem Monitoring & Edukasi Gempa Bumi
 
-![Banner Project](https://via.placeholder.com/1000x300?text=QuakeVigilant+Dashboard)
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit)](https://streamlit.io/)
 [![Database](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql)](https://www.mysql.com/)
